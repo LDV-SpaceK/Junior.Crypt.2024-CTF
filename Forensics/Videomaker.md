@@ -8,10 +8,6 @@
   * 1.mp4
   * 2.mp4
 
-## Tool
-
-* binwalk
-
 ## Overview
 
 * mp4 recovery
